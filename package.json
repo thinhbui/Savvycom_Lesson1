@@ -1,0 +1,25 @@
+{
+  "name": "savvycom_lesson1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinhbui/Savvycom_Lesson1.git"
+  },
+  "author": "thinhbui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinhbui/Savvycom_Lesson1/issues"
+  },
+  "homepage": "https://github.com/thinhbui/Savvycom_Lesson1#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-node6": "^11.0.0",
+    "eslint": "^4.19.1"
+  },
+  "devDependencies": {}
+}
