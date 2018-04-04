@@ -1,6 +1,6 @@
 const heapSort = (arr) => {
-    var len = arr.length,
-        end = len - 1;
+    const len = arr.length;
+    let end = len - 1;
 
     heapify(arr, len);
 
